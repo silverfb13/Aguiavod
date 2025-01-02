@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "cprimemain-a6xm26AErl",
-        "password": "n1RpsyRUP1",
+        "username": "cprimemain-I4IWsd2ceB",
+        "password": "Y4MiyWHIEn",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -18,7 +18,7 @@
     },
     "server_info": {
         "url": "goal.hostingiscoremm9.xyz",
-        "port": "80",
+        "port": "8080",
         "https_port": "443",
         "server_protocol": "http",
         "rtmp_port": "8080",
